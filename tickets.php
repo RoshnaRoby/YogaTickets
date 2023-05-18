@@ -163,7 +163,6 @@ input{margin-bottom:35px;}
     <input style="font-size:30px; margin-right: 30px;" type = "submit" value = "Book">
     <input style="font-size:30px;"type = "reset" value = "Reset">
 </form>
-
 <div>
     <p style="font-size:20px;">For questions and more info please<a href = "mailto:roshnarebaca2002@gmail.com"> Email Us</a>.</p></div>
 
